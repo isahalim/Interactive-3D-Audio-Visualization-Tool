@@ -1,4 +1,4 @@
-# Project Name: Interactive-3D-Audio-Visualization-Tool
+# Interactive-3D-Audio-Visualization-Tool
 
 Developed a real-time 3D visualization tool in JavaScript that responds dynamically to live microphone input with the p5.js library.
 Implemented FFT analysis on live audio data to extract several frequency bands (bass, mid, treble) and mapped them onto 3D objects to animate them. 
