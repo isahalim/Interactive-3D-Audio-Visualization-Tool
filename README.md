@@ -5,7 +5,7 @@ Implemented FFT analysis on live audio data to extract several frequency bands (
 Designed noise-based visual effects and procedural textures that respond to sound intensity. 
 Built features such as orbiting electron-like objects and frequency-driven spikes to create an engaging visualization reminiscent of charged particles and particle fission.
 
-## 🚀 Quick Start
+## Quick Start
 
 To view this project locally, you need to run a local web server. Since many browsers block local file access (CORS) for security, simply double-clicking `index.html` may not work.
 
@@ -37,15 +37,13 @@ npx http-server -p 8000
 
 ---
 
-## 🌐 Viewing the Project
+## Viewing the Project
 
 Once your server is running, open your browser and navigate to:
 
 > **[http://localhost:8000](https://www.google.com/search?q=http://localhost:8000)**
 
-*(Note: If using VS Code Live Server, the default port is usually `5500` instead of `8000`.)*
-
-## 📁 Project Structure
+## Project Structure
 
 * `index.html` - The main entry point.
 * `sketch.js` - (main logic file).
